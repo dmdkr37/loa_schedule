@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/LoaSchedule.Domain/LoaSchedule.Domain.csproj" />
+  <Project Path="src/LoaSchedule.Infrastructure/LoaSchedule.Infrastructure.csproj" />
+  <Project Path="src/LoaSchedule.App/LoaSchedule.App.csproj" />
+  <Project Path="tests/LoaSchedule.SmokeTests/LoaSchedule.SmokeTests.csproj" />
+</Solution>

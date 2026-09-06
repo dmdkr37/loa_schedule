@@ -1,0 +1,10 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+.idea/
+.vscode/
+artifacts/
+data.json
+*.tmp
+*.user
+*.suo
